@@ -24,8 +24,8 @@ body{
 .footer-text{
   text-align: center;
 }
-img {
-   background-position: center;
+.photo {
+   margin: 40px;
 }
 .bg-gray {
   background-color: #f3f6fa;
